@@ -72,6 +72,7 @@ In other words, run quick tests and detect errors fast.
 We provide in this folder several test datasets that can be used in different TronFlow workflows.
 
 Among them:
+- `TESTX_S1_L001/2_R1/2_001.fastq.gz`. FASTQ files on the minimal reference genome region.
 - `TESTX_S1_L001.bam` and `TESTX_S1_L002.bam`. Downsampled BAM files on the minimal reference genome region.
 - `test_single_sample.vcf` and `test_tumor_normal.vcf`. VCF files with a diverse set of mutations in the minimal reference genome region for a single sample and a tumor-normal pair.
 - `ucsc.hg19.minimal.fasta`. Minimal reference genome with the first 1,000,000 bp of the first 4 chromosomes of the human genome hg19. This includes several indexes for different purposes.
