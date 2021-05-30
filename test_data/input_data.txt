@@ -1,0 +1,2 @@
+sample1	test_data/TESTX_S1_L001.bam
+sample2	test_data/TESTX_S1_L002.bam
