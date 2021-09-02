@@ -1,5 +1,8 @@
 # TronFlow Template
 
+[![License](https://img.shields.io/badge/license-MIT-green)](https://opensource.org/licenses/MIT)
+[![Powered by Nextflow](https://img.shields.io/badge/powered%20by-Nextflow-orange.svg?style=flat&colorA=E1523D&colorB=007D8A)](https://www.nextflow.io/)
+
 This repository holds a dummy Nextflow workflow aiming to serve as a template to develop new workflows.
 
 ## Content structure
